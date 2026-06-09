@@ -161,6 +161,6 @@ Interactive matrix visual displaying attrition distribution across different job
 
 ### Dashboard Preview
 
-![HR Analytics Dashboard Preview](Snapshot Hr_analytics_dashboard.png)
+![HR Analytics Dashboard Preview]([Snapshot Hr_analytics_dashboard.png](https://github.com/1vinay0056/HR_Analytics_Dashboard/blob/main/Snapshot%20Hr_analytics_dashboard.png)
 
 The dashboard presents a complete overview of workforce demographics, attrition trends, salary distribution, job-role analysis, and employee retention metrics through an interactive and visually appealing Power BI interface.

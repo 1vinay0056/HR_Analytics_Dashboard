@@ -1,4 +1,4 @@
-# 👨‍💼 HR Analytics Dashboard
+<img width="629" height="356" alt="image" src="https://github.com/user-attachments/assets/52b1d35e-aea6-4800-a0f5-157a0818087d" /># 👨‍💼 HR Analytics Dashboard
 
 ## 1. Project Title / Headline
 
@@ -157,10 +157,8 @@ Interactive matrix visual displaying attrition distribution across different job
 
 ---
 
-## 6. Screenshots / Demo
-
-### Dashboard Preview
-
-![HR Analytics Dashboard Preview]([Snapshot Hr_analytics_dashboard.png](https://github.com/1vinay0056/HR_Analytics_Dashboard/blob/main/Snapshot%20Hr_analytics_dashboard.png)
+### 6.	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
 
 The dashboard presents a complete overview of workforce demographics, attrition trends, salary distribution, job-role analysis, and employee retention metrics through an interactive and visually appealing Power BI interface.

@@ -1,3 +1,4 @@
+ <img width="629" height="356" alt="image" src="https://github.com/user-attachments/assets/52b1d35e-aea6-4800-a0f5-157a0818087d" />
 👨‍💼 HR Analytics Dashboard
 
 ## 1. Project Title / Headline

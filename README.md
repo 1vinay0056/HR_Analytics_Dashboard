@@ -159,6 +159,6 @@ Interactive matrix visual displaying attrition distribution across different job
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like.
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+Example: ![Dashboard Preview (https://github.com/1vinay0056/HR_Analytics_Dashboard/blob/main/Snapshot%20Hr_analytics_dashboard.png)
 
 The dashboard presents a complete overview of workforce demographics, attrition trends, salary distribution, job-role analysis, and employee retention metrics through an interactive and visually appealing Power BI interface.
